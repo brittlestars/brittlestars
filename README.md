@@ -15,5 +15,5 @@ ${\textsf{\color{#D7C4AB}im}}$ ${\textsf{\color{#AF8E8F}going}}$ ${\textsf{\colo
 <br />
 
 ${\textsf{\color{#D7C4AB}𝒞𝑜𝑟𝑎𝑙 𝑟𝑒𝑒𝑓}}$
-${\textsf{\color{#D7C4AB}`}}$
-${\textsf{\color{#D7C4AB}𝒫𝑙𝑢𝑚}}$
+${\textsf{\color{#846382}ᵒʳ}}$
+${\textsf{\color{#AF8E8F}𝒫𝑙𝑢𝑚}}$
