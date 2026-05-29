@@ -10,3 +10,10 @@ ${\textsf{\color{#D7C4AB}im}}$ ${\textsf{\color{#AF8E8F}going}}$ ${\textsf{\colo
 
 <img width="400" height="398" alt="Image" src="https://github.com/user-attachments/assets/c0267b92-75ad-4db6-a9ed-67cb8948c38c" />
 
+<div align="center">
+<br />
+<br />
+
+${\textsf{\color{#D7C4AB}𝒞𝑜𝑟𝑎𝑙 𝑟𝑒𝑒𝑓}}$
+${\textsf{\color{#D7C4AB}`}}$
+${\textsf{\color{#D7C4AB}𝒫𝑙𝑢𝑚}}$
