@@ -22,7 +22,7 @@ ${\textsf{\color{#AF8E8F}𝒫𝑙𝑢𝑚}}$
 ${\textsf{\color{#D7C4AB}𝑐+ℎ}}$
 ${\textsf{\color{#AF8E8F}𝑖𝑠}}$
 ${\textsf{\color{#846382}𝑎𝑙𝑤𝑎𝑦𝑠}}$
-${\textsf{\color{#664B72}𝑤𝑒𝑙𝑐𝑜𝑚𝑒𝑑}}$
+${\textsf{\color{#664B72}𝑤𝑒𝑙𝑐𝑜𝑚𝑒}}$
 ${\textsf{\color{#513E59}𝑢𝑛𝑙𝑒𝑠𝑠}}$
 ${\textsf{\color{#664B72}𝑠𝑎𝑖𝑑}}$
 ${\textsf{\color{#846382}𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒}}$
