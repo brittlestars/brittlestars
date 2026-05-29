@@ -14,7 +14,7 @@ ${\textsf{\color{#D7C4AB}im}}$ ${\textsf{\color{#AF8E8F}going}}$ ${\textsf{\colo
 <br />
 <br />
 
-${\textsf{\color{#D7C4AB}𝒞𝑜𝑟𝑎𝑙 𝑟𝑒𝑒𝑓}}$
+${\textsf{\color{#D7C4AB}𝒞𝑜𝑟𝑎𝑙𝑣𝑖𝑙𝑙𝑒,𝒞𝑜𝑟𝑎𝑙 𝑟𝑒𝑒𝑓}}$
 ${\textsf{\color{#846382}⋆. ୨୧˚⋆ }}$
 ${\textsf{\color{#AF8E8F}𝒫𝑙𝑢𝑚}}$
 <div align="center">
