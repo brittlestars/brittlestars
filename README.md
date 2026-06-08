@@ -1,11 +1,11 @@
-${\textsf{\color{#D7C4AB}im}}$ ${\textsf{\color{#AF8E8F}going}}$ ${\textsf{\color{#846382}fishing}}$
-  + ${\textsf{\color{#D7C4AB}cuz }}$ ${\textsf{\color{#AF8E8F}im}}$ 
- ${\textsf{\color{#846382}on}}$ ${\textsf{\color{#664B72}a}}$ ${\textsf{\color{#513E59}mission}}$
+${\textsf{\color{#3E485B}im}}$ ${\textsf{\color{#3E485B}going}}$ ${\textsf{\color{#3E485B}fishing}}$
+  + ${\textsf{\color{#3E485B}cuz }}$ ${\textsf{\color{#3E485B}im}}$ 
+ ${\textsf{\color{#3E485B}on}}$ ${\textsf{\color{#3E485B}a}}$ ${\textsf{\color{#3E485B}mission}}$
  <div align="center">
 <br />
 <br />
 
-  ![](https://komarev.com/ghpvc/?username=HollowGaze&color=D7C4AB&label=ㅤㅤㅤ<3ㅤㅤㅤ&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=HollowGaze&color=1B1722&label=ㅤㅤㅤ<3ㅤㅤㅤ&style=plastic)
 <br />
 
 ![image alt](https://files.catbox.moe/c2xzp9.png) 
