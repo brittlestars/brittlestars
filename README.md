@@ -8,8 +8,7 @@ ${\textsf{\color{#D7C4AB}im}}$ ${\textsf{\color{#AF8E8F}going}}$ ${\textsf{\colo
   ![](https://komarev.com/ghpvc/?username=HollowGaze&color=D7C4AB&label=ㅤㅤㅤ<3ㅤㅤㅤ&style=plastic)
 <br />
 
-<img width="400" height="398" alt="Image" src="https://github.com/user-attachments/assets/c0267b92-75ad-4db6-a9ed-67cb8948c38c" />
-
+![image alt](https://files.catbox.moe/c2xzp9.png) 
 <div align="center">
 <br />
 <br />
