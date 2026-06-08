@@ -13,6 +13,11 @@ ${\textsf{\color{#3E485B}im}}$ ${\textsf{\color{#3E485B}going}}$ ${\textsf{\colo
 <br />
 <br />
 
+${\textsf{\color{#3E485B}the 4 legged beast?}}$
+
+⠀ ${\textsf{\color{#3E485B} I wonder how it looks like.}}$
+
+![image alt](https://files.catbox.moe/8lad61.png)
 ${\textsf{\color{#3E485B}𝒞𝑜𝑟𝑎𝑙𝑣𝑖𝑙𝑙𝑒,𝒞𝑜𝑟𝑎𝑙 𝑟𝑒𝑒𝑓}}$
 ${\textsf{\color{#3E485B}⋆. ୨୧˚⋆ }}$
 ${\textsf{\color{#3E485B}𝒫𝑙𝑢𝑚}}$
