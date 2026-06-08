@@ -26,4 +26,4 @@ ${\textsf{\color{#513E59}𝑢𝑛𝑙𝑒𝑠𝑠}}$
 ${\textsf{\color{#664B72}𝑠𝑎𝑖𝑑}}$
 ${\textsf{\color{#846382}𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒}}$
 
-![image alt](https://github.com/brittlestars/GoAwayImEmo/blob/main/Untitled17_20260529213256.png) 
+![image alt](https://files.catbox.moe/swxe7b.png) 
