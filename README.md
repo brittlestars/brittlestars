@@ -35,3 +35,10 @@ ${\textsf{\color{#AA9578}𝑤𝑒𝑙𝑐𝑜𝑚𝑒}}$
 ${\textsf{\color{#AA9578}𝑢𝑛𝑙𝑒𝑠𝑠}}$
 ${\textsf{\color{#AA9578}𝑠𝑎𝑖𝑑}}$
 ${\textsf{\color{#AA9578}𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒}}$
+
+<div align="center">
+<br />
+<br />
+
+[新book](https://plumpyplum.atabook.org)
+[strawpage](https://twinklingcoral.strawpage) 
