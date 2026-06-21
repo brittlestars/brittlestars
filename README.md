@@ -6,11 +6,11 @@ ${\textsf{\color{#2D5C5F}im}}$ ${\textsf{\color{#2D5C5F}going}}$ ${\textsf{\colo
 <br />
 <br />
 
-   ![](https://files.catbox.moe/wmllle.png)
+  
   ![](https://komarev.com/ghpvc/?username=HollowGaze&color=2D5C5F&label=ㅤㅤㅤ<3ㅤㅤㅤ&style=plastic)
 <br />
 
-![image alt](https://files.catbox.moe/qz6u47.png) 
+![image alt](https://files.catbox.moe/v4h0lw.png) 
 <div align="center">
 <br />
 <br />
