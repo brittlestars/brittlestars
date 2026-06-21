@@ -41,4 +41,4 @@ ${\textsf{\color{#AA9578}𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒}}$
 <br />
 
 [新book](https://plumpyplum.atabook.org)
-[strawpage](https://twinklingcoral.strawpage) 
+[strawpage](https://twinklingcoral.straw.page/) 
