@@ -21,7 +21,7 @@ ${\textsf{\color{#2D5C5F}the 4 legged beast?}}$
 <div align="center">
 <br />
   
-![image alt](https://files.catbox.moe/csk122.png)
+![image alt](https://files.catbox.moe/2wczpw.png)
 
 
 ${\textsf{\color{#2D5C5F}𝒞𝑜𝑟𝑎𝑙𝑣𝑖𝑙𝑙𝑒,𝒞𝑜𝑟𝑎𝑙 𝑟𝑒𝑒𝑓}}$
@@ -42,4 +42,4 @@ ${\textsf{\color{#2D5C5F}𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒}}$
 <br />
 
 [新book](https://plumpyplum.atabook.org)
-[strawpage](https://twinklingcoral.straw.page/) 
+[strawpage](https://twinklingcoral.straw.page/)
