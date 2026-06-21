@@ -6,10 +6,11 @@ ${\textsf{\color{#AA9578}im}}$ ${\textsf{\color{#AA9578}going}}$ ${\textsf{\colo
 <br />
 <br />
 
+   ![](https://files.catbox.moe/wmllle.png)
   ![](https://komarev.com/ghpvc/?username=HollowGaze&color=AA9578&label=ㅤㅤㅤ<3ㅤㅤㅤ&style=plastic)
 <br />
 
-![image alt](https://files.catbox.moe/2yyu87.png) 
+![image alt](https://files.catbox.moe/ha49eh.png) 
 <div align="center">
 <br />
 <br />
@@ -20,7 +21,7 @@ ${\textsf{\color{#AA9578}the 4 legged beast?}}$
 <div align="center">
 <br />
   
-![image alt](https://files.catbox.moe/cpq21b.png)
+![image alt](https://files.catbox.moe/csk122.png)
 
 
 ${\textsf{\color{#AA9578}𝒞𝑜𝑟𝑎𝑙𝑣𝑖𝑙𝑙𝑒,𝒞𝑜𝑟𝑎𝑙 𝑟𝑒𝑒𝑓}}$
