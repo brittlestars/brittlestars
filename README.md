@@ -20,7 +20,7 @@ ${\textsf{\color{#AA9578}the 4 legged beast?}}$
 <div align="center">
 <br />
   
-![image alt](https://files.catbox.moe/8lad61.png)
+![image alt](https://files.catbox.moe/cpq21b.png)
 
 
 ${\textsf{\color{#AA9578}𝒞𝑜𝑟𝑎𝑙𝑣𝑖𝑙𝑙𝑒,𝒞𝑜𝑟𝑎𝑙 𝑟𝑒𝑒𝑓}}$
