@@ -10,7 +10,7 @@ ${\textsf{\color{#2D5C5F}im}}$ ${\textsf{\color{#2D5C5F}going}}$ ${\textsf{\colo
   ![](https://komarev.com/ghpvc/?username=HollowGaze&color=2D5C5F&label=ㅤㅤㅤ<3ㅤㅤㅤ&style=plastic)
 <br />
 
-![image alt](https://files.catbox.moe/ha49eh.png) 
+![image alt](https://files.catbox.moe/qz6u47.png) 
 <div align="center">
 <br />
 <br />
