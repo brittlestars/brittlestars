@@ -48,6 +48,6 @@ ${\textsf{\color{#2D5C5F}𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒}}$
 <br />
 
 
-${\textsf{\color{#2D5C5F}PLEASE I NEED TO GET KNOWN AS}}$
+${\textsf{\color{#2D5C5F}PLEASE I NEED TO BE KNOWN AS}}$
 ${\textsf{\color{#2D5C5F}PT'S STAR CORAL,AGOTT}}$
 ${\textsf{\color{#2D5C5F}ok I'll shut up}}$
