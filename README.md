@@ -1,9 +1,14 @@
 
+![image alt](https://files.catbox.moe/6a5orb.png) 
+
+
+<div align="center">
+<br />
+<br />
   
-  ![](https://komarev.com/ghpvc/?username=HollowGaze&color=434445&label=ㅤㅤㅤ<3ㅤㅤㅤ&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=HollowGaze&color=242630&label=ㅤㅤㅤ<3ㅤㅤㅤ&style=plastic)
 <br />
 
-![image alt](https://files.catbox.moe/6a5orb.png) 
 
 <div align="center">
 <br />
