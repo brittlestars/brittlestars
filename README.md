@@ -9,7 +9,7 @@
 <br />
 <br />
 
-![image alt](https://files.catbox.moe/p644zc.png) 
+![image alt](https://github.com/brittlestars/GoAwayImEmo/blob/main/Untitled65_20260701173505.png) 
 
 
 
