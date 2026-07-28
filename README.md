@@ -1,5 +1,5 @@
 
-![image alt](https://files.catbox.moe/blpyj7.png) 
+![image alt](https://github.com/brittlestars/twinklingcoral/blob/main/Untitled6_20260728230541.png) 
 
 
 <div align="center">
@@ -14,7 +14,7 @@
 <br />
 <br />
 
-![image alt](https://files.catbox.moe/xfq6nh.png) 
+![image alt](https://github.com/brittlestars/twinklingcoral/blob/main/Untitled4_20260728221832.png) 
 
 <details></BYI> <summary>BYI</summary><h align="center">
 .  I mostly don't interact first it's either I feel awkward or left out it'll be appreciated if you interact first
