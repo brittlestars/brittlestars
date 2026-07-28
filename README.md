@@ -1,12 +1,12 @@
 
-![image alt](https://files.catbox.moe/6a5orb.png) 
+![image alt](https://files.catbox.moe/blpyj7.png) 
 
 
 <div align="center">
 <br />
 <br />
   
-  ![](https://komarev.com/ghpvc/?username=HollowGaze&color=242630&label=ㅤㅤㅤ<3ㅤㅤㅤ&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=HollowGaze&color=F1F1DD&label=ㅤㅤㅤ<3ㅤㅤㅤ&style=plastic)
 <br />
 
 
@@ -14,7 +14,7 @@
 <br />
 <br />
 
-![image alt](https://github.com/brittlestars/GoAwayImEmo/blob/main/Untitled65_20260701173505.png) 
+![image alt](https://files.catbox.moe/xfq6nh.png) 
 
 <details></BYI> <summary>BYI</summary><h align="center">
 .  I mostly don't interact first it's either I feel awkward or left out it'll be appreciated if you interact first
