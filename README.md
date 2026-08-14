@@ -14,6 +14,8 @@
 <br />
 <br />
 
+ 
+
 
 <details></BYI> <summary>BYI</summary><h align="center">
 .  I mostly don't interact first it's either I feel awkward or left out it'll be appreciated if you interact first
@@ -25,7 +27,12 @@
 ⠀⠀ꉂꉂ(ᵔᗜᵔ◍)
 ♡
 <br />
-
+</th>
+  </tr>
+  </table>
+</details>
+</div>
+  
 
 
 
