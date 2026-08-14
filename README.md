@@ -1,5 +1,5 @@
 
-![image alt](https://files.catbox.moe/b6i2zm.png) 
+![image alt](https://github.com/brittlestars/GoAwayImEmo/blob/main/Untitled17_20260814022431.png) 
 
 
 <div align="center">
