@@ -6,7 +6,11 @@
 <br />
 <br />
   
-  ![](https://komarev.com/ghpvc/?username=HollowGaze&color=F1F1DD&label=ㅤㅤㅤ<3ㅤㅤㅤ&style=plastic)
+  
+  
+  <img src="https://hits.sh/github.com/haidaware/hits.svg?label=spells&extraCount=-10300&color=DFDAC3&labelColor=976B79"> 
+  
+  
 <br />
 
 
