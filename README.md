@@ -5,8 +5,8 @@
 <div align="center">
 <br />
 <br />
-  
-  
+
+  ![image alt](https://files.catbox.moe/avvxnt.png) 
   
   <img src="https://hits.sh/github.com/haidaware/hits.svg?label=spells&extraCount=-10300&color=DFDAC3&labelColor=976B79"> 
   
