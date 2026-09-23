@@ -1,22 +1,20 @@
 
-![image alt](https://github.com/brittlestars/GoAwayImEmo/blob/main/Untitled17_20260829022452.png) 
+![image alt](https://github.com/snowdroppss/snowdroppss/blob/main/%D8%A8%D8%AF%D9%88%D9%86%20%D8%A7%D8%B3%D9%8530_20260923165616.png)
+![image alt](https://github.com/snowdroppss/snowdroppss/blob/main/%D8%A8%D8%AF%D9%88%D9%86%20%D8%A7%D8%B3%D9%8526_20260923163541.png)
 
 
 <div align="center">
 <br />
 <br />
 
-  ![image alt](https://files.catbox.moe/avvxnt.png) 
-  
-  <img src="https://hits.sh/github.com/haidaware/hits.svg?label=spells&extraCount=-10300&color=DFDAC3&labelColor=976B79"> 
-  
-  
-<br />
+<img src="https://hits.sh/github.com/haidaware/hits.svg?label=snowflakes&extraCount=-10300&color=7D8679&labelColor=EADCA4"> 
 
-
+  
 <div align="center">
 <br />
 <br />
+
+  
 
  
 
@@ -54,3 +52,5 @@
 
 
 no dni I block freely. 
+
+  ![image alt](https://github.com/snowdroppss/snowdroppss/blob/main/%D8%A8%D8%AF%D9%88%D9%86%20%D8%A7%D8%B3%D9%8530_20260923165616.png)
