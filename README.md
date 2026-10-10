@@ -8,7 +8,7 @@
   
 ![image alt](https://github.com/brittlestars/-/blob/main/%D8%A8%D8%AF%D9%88%D9%86%20%D8%A7%D8%B3%D9%8543_20261010210938.png)
   
-  <img src="https://hits.sh/github.com/haidaware/hits.svg?label=spells&extraCount=-10300&color=DFDAC3&labelColor=49241B"> 
+  <img src="https://hits.sh/github.com/haidaware/hits.svg?label=CHUDZ&extraCount=-10300&color=DFDAC3&labelColor=49241B"> 
   
   
 <br />
