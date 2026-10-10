@@ -1,14 +1,15 @@
 
-![image alt](https://github.com/brittlestars/GoAwayImEmo/blob/main/Untitled17_20260829022452.png) 
+![image alt](https://github.com/brittlestars/-/blob/main/%D8%A8%D8%AF%D9%88%D9%86%20%D8%A7%D8%B3%D9%857_20261010193823.png) 
 
+![image alt](https://github.com/brittlestars/-/blob/main/%D8%A8%D8%AF%D9%88%D9%86%20%D8%A7%D8%B3%D9%855_20261010193854.png)
 
 <div align="center">
 <br />
 <br />
 
-  ![image alt](https://files.catbox.moe/avvxnt.png) 
+  ![image alt](...................) 
   
-  <img src="https://hits.sh/github.com/haidaware/hits.svg?label=spells&extraCount=-10300&color=DFDAC3&labelColor=976B79"> 
+  <img src="https://hits.sh/github.com/haidaware/hits.svg?label=spells&extraCount=-10300&color=DFDAC3&labelColor=49241B"> 
   
   
 <br />
