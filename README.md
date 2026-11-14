@@ -1,7 +1,7 @@
 
-![image alt](https://github.com/brittlestars/-/blob/main/%D8%A8%D8%AF%D9%88%D9%86%20%D8%A7%D8%B3%D9%857_20261010193823.png) 
+![image alt](https://github.com/brittlestars/GoAwayImEmo/blob/main/Untitled15_20261114155356.png) 
 
-![image alt](https://github.com/brittlestars/-/blob/main/%D8%A8%D8%AF%D9%88%D9%86%20%D8%A7%D8%B3%D9%855_20261010193854.png)
+![image alt](https://github.com/brittlestars/GoAwayImEmo/blob/main/Untitled15_20261114154943.png)
 
 <div align="center">
 <br />
